@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Search Any Photo</string>
+    <string name="common_heading">Flicker</string>
+    <string name="search_photos">Search Photos</string>
+    <string name="two_columns">2 Columns</string>
+    <string name="three_columns">3 Columns</string>
+    <string name="four_columns">4 Columns</string>
+    <string name="no_of_columns">No of columns</string>
+    <string name="cricket">Cricket</string>
+
+    <!--alert msg-->
+    <string name="press_back">Press back again to exit</string>
+
+
+    <!--Error msg-->
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_no_photos">No photo found.Please Connect to internet to view photos</string>
+    <string name="error_no_photos_found">No photo found</string>
+    <string name="search_history">Search History</string>
+</resources>
